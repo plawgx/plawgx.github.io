@@ -1,19 +1,24 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely need to edit after that.
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'jekyll serve'. If you change this file, please restart the server process.
+title: Researcher
+url: "https://ankitsultana.com"
+baseurl: "/researcher"
 
-# Site settings
-title: Guoxin Wang 
-email: guoxin.wang@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  思路来的快，去得快。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://http://plawgx.github.io/" # the base hostname & protocol for your site
-twitter_username: GuoxinW
-github_username:  plawgx
-
-# Build settings
 markdown: kramdown
+#ins_logo: "./bits-logo.png"
+
+tracking_id: #
+
+footer: yes
+footer_url: "https://github.com/ankitsultana"
+footer_text: "Page design by Ankit Sultana"
+
+sass:
+    style: compressed
+    sass_dir: _sass
+
+nav:
+ - name: "About"
+   link: "/researcher/"
+ - name: "Resume"
+   link: "resume.pdf"
+ - name: "Contact"
+   link: "contact"
