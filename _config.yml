@@ -23,8 +23,9 @@ resume_contact_address:         "742 Evergreen Terrace, Springfield"
 resume_header_contact_info:     "742 Evergreen Terrace, Springfield • 555-7334 • lisasimpson@youremailaddress.com"
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>Currently the head of the Intelligent Algorithms Department at JD Health, responsible for technological innovation and solution development in the field of medical AI.
-An expert in artificial intelligence and an IEEE Senior Member, graduated from Zhejiang University. I have published more than ten international papers in AAAI, IEEE TMM, SIGKDD, etc. My main research areas are large-scale language models and multimodal learning. I serve as the technical lead for JD Health's large medical model, JD Medical Q&A, and I am the author of the video large model, VICTOR. With over ten years of research experience in artificial intelligence, I possess rich practical experience at the forefront of innovative technology and have led multiple core technological breakthroughs across various fields, including health care, e-commerce, search engines, content recommendation, and internet advertising.</p>
+resume_header_intro: "<p>Currently the head of the Intelligent Algorithms Department at JD Health, overseeing the AI core modeling team, search team and recommendation team, responsible for technological innovation and solution development in the field of medical AI</p>
+<p>I have published more than ten international papers in AAAI, IEEE TMM, SIGKDD, etc. My main research areas are search engine, large-scale language models and multimodal learning. I serve as the technical lead and main author of JingYiQianXun, which is the leading LLM in <a href='https://medbench.opencompass.org.cn/leaderboard'>MedBench.</a></p> 
+<p>With over ten years of research experience in artificial intelligence, I possess rich practical experience at the forefront of innovative technology and have led multiple core technological breakthroughs across various fields, including health care, e-commerce, search engines, content recommendation.</p>
 "
 
 
