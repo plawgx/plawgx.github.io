@@ -94,6 +94,20 @@
       <!-- end Education -->
       {% endif %}
 
+      {% if site.resume_section_jrnl_paper %}
+      <!-- begin Journal Paper -->
+      <section class="content-section">
+        <header class="section-header">
+          <h2>Journal Paper</h2>
+        </header>
+        {% for paper in site.data.jrnl_paper %}
+        <div class="resume-item" itemscope itemprop="alumniOf" itemtype="http://schema.org/CollegeOrUniversity">
+          <p class="resume-item-copy">{{ paper.title }}</p>
+        </div>
+        {% endfor %}
+      </section>
+      <!-- end Journal Paper -->
+
       {% if site.resume_section_conf_paper %}
       <!-- begin Conference Paper -->
       <section class="content-section">
